@@ -1,0 +1,2 @@
+Alvaro Gabriel Muñoz Diaz;Fisica;30;10/11/2023 3:22:53 p. m.
+Alvaro Gabriel Muñoz Diaz;Deporte;50;10/11/2023 4:33:35 p. m.

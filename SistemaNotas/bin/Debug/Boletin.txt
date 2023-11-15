@@ -1,0 +1,15 @@
+Estudiante: Juan
+Materia: Matemáticas
+Nota: 4,5
+Promedio: 4,8
+
+Estudiante: Ana
+Materia: Historia
+Nota: 3,7
+Promedio: 3,9
+
+Estudiante: Pedro
+Materia: Ciencias
+Nota: 5
+Promedio: 4,5
+

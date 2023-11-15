@@ -1,0 +1,17 @@
+C:\Users\Alvaro Muñoz\source\repos\SistemaNotas\SistemaNotas\bin\Debug\SistemaNotas.exe.config
+C:\Users\Alvaro Muñoz\source\repos\SistemaNotas\SistemaNotas\bin\Debug\SistemaNotas.exe
+C:\Users\Alvaro Muñoz\source\repos\SistemaNotas\SistemaNotas\bin\Debug\SistemaNotas.pdb
+C:\Users\Alvaro Muñoz\source\repos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.csproj.AssemblyReference.cache
+C:\Users\Alvaro Muñoz\source\repos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.Form1.resources
+C:\Users\Alvaro Muñoz\source\repos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.interfaz.resources
+C:\Users\Alvaro Muñoz\source\repos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.Properties.Resources.resources
+C:\Users\Alvaro Muñoz\source\repos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.csproj.GenerateResource.cache
+C:\Users\Alvaro Muñoz\source\repos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro Muñoz\source\repos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.exe
+C:\Users\Alvaro Muñoz\source\repos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.pdb
+C:\Users\Alvaro Muñoz\source\repos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.Registro.resources
+C:\Users\Alvaro Muñoz\source\repos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.RegistroMaterias.resources
+C:\Users\Alvaro Muñoz\source\repos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.RegistroNotas.resources
+C:\Users\Alvaro Muñoz\source\repos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.VerNotasE.resources
+C:\Users\Alvaro Muñoz\source\repos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.VerNotasxM.resources
+C:\Users\Alvaro Muñoz\source\repos\SistemaNotas\SistemaNotas\obj\Debug\SistemaNotas.ImprimirB.resources
